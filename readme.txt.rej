@@ -1,0 +1,7 @@
+diff a/readme.txt b/readme.txt	(rejected hunks)
+@@ -1,2 +1,2 @@
+ Git is a distributed version control system.
+-Git is free software.
+\ No newline at end of file
++Git is free software distributed under the GPL.
+\ No newline at end of file
